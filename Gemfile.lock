@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     platform-api (1.0.1)
-      heroics (~> 0.0.21)
+      heroics (= 0.0.21)
       moneta (~> 0.8.1)
 
 GEM
